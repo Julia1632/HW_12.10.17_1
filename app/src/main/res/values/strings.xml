@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test_backend_1</string>
+    <string name="surname">Surname</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="id">Id</string>
+    <string name="push">Push</string>
+    <string name="pull">pull</string>
+</resources>
